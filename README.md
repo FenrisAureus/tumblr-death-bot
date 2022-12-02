@@ -2,7 +2,7 @@
 
 ## License:
 
-do whatever the fuck you want with this, just credit me in the bio @allie-anarchist
+do whatever the fuck you want with this, just credit me in the bio as @allie-anarchist
 
 ---
 
