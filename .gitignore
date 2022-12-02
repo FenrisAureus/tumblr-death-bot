@@ -1,0 +1,12 @@
+# ignore ALL .log files
+*.log
+.DS_STORE
+*.ipynb
+personal_keys.json
+
+# ignore ALL files in ANY directory named logs
+logs/
+
+# others
+__pycache__/
+.ipynb_checkpoints/

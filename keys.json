@@ -1,0 +1,11 @@
+{
+    /*
+    GO TO:
+    https://www.tumblr.com/docs/en/api/v2
+    FOR HELP WITH GETTING YOUR OWN KEYS
+    */
+    "consumer_key":"",
+    "consumer_secret":"",
+    "oauth_token":"",
+    "oauth_secret":""
+}

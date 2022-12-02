@@ -1,0 +1,42 @@
+{
+    "scheduling":{
+        "default_post_time":5,
+        "interval":15
+    },
+    "tumblr":{
+        "keys":"personal_keys.json",
+        "post":{
+            "blogName":"is-henry-kissinger-dead-yet",
+            "date":"%A, %B %-d",// ON NON MACOS SYSTEMS REMOVE THE -
+            "dead":{
+                "title":"HE'S DEAD! 🎉",
+                "body":""
+            },
+            "alive":{
+                "title":"",
+                "body":"<p>Is Henry Kissinger dead yet?</p><p>%s:</p><p>No.</p>"
+            },
+            "tags":[
+                "henry kissinger",
+                "leftist",
+                "imperialism",
+                "socialism",
+                "anarchism",
+                "communism",
+                "kissinger",
+                "us imperialism",
+                "fuck henry kissinger",
+                "henry kissinger is a war criminal",
+                "leftism",
+                "socialist",
+                "communist",
+                "anarchist"
+            ]
+        }
+    },
+    "wiki":{
+        "user":"MyWikibaseBot/1.0 (https://www.wikidata.org/wiki/User:YOUR_USERNAME_HERE)",
+        "personName":"HENRY KISSINGER",
+        "personID":"Q66107"
+    }
+}
