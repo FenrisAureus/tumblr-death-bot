@@ -83,7 +83,7 @@ def post(post: dict,client:pytumblr.TumblrRestClient,deceased:bool) -> dict:
     post = client.create_text(
         blogname = post['blogName'], 
         state="published", 
-        slug=f"{date}",
+        slug="tumblr-death-bot by @allie-anarchist",
         title=post[option]['title'], 
         body=post[option]['body'],
         tags=post['tags']
