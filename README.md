@@ -2,13 +2,13 @@
 
 ## Disclaimer:
 
-I am not a very good programmer, downloading and running the code of some random asshole on tumblr is just about the dumbest idea imagineable and I am not responsible for what happens to your machine when you do.
+I am not a very good programmer, downloading and running the code of some random asshole on tumblr is just about the dumbest fucking idea imaginable and I am not responsible for what happens to your machine when you do.
 
 ---
 
 ## Setup:
 
-To run, you will need to get your own keys for the Tumblr go to [here](https://www.tumblr.com/docs/en/api/v2) for help.
+To run, you will need to get your own keys for the Tumblr API. go to [here](https://www.tumblr.com/docs/en/api/v2) for help.
 
 Put those into `keys.json`, and set `tumblr.keys` to `"keys.json"`.  
 
