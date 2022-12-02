@@ -1,5 +1,11 @@
 # Tumblr Death Bot
 
+## License:
+
+do whatever the fuck you want with this, just credit me in the bio
+
+---
+
 ## Disclaimer:
 
 I am not a very good programmer, downloading and running the code of some random asshole on tumblr is just about the dumbest fucking idea imaginable and I am not responsible for what happens to your machine when you do.
